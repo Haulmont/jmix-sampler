@@ -30,7 +30,6 @@
                 </column>
                 <column id="experience"/>
             </columns>
-            <rows/>
         </groupTable>
     </layout>
 </window>
